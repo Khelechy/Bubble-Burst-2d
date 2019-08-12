@@ -4,7 +4,10 @@
 ### //Github: www.github.com/khelechy
 
 
-# [+---------------+Opensource 2d Unity Game Development+--------------------+]
+
+# Opensource 2d Unity Game Development
+
+
 
 ## @Project: BURST [2d topDown Bubble shooter]
 ### Target Platform: Mobile Devices, Pcs and Mac, Steam.
@@ -15,7 +18,7 @@ _*Ground written Scripts in C# , commented, Readable and Understandable to begin
 *Unity Installed Componenets
 PostProcessing, TileMaps, MkGlow Effects*
 
-# [+---------Documentation---------+]
+# Documentation
 Scripts
 *. Bullet.cs
 *. CameraController.cs
@@ -25,12 +28,14 @@ Scripts
 *. FirePower.cs
 *. PlayerController.cs
 
-[+=========Game Effects==========+]
+### Game Effects
 LinePrefabs with Glow effects
 CameraShake on shooting
 Shooting Effects and DeathEffects(Particle Effects)
 
-================SCRIPTS DOCUMENTATION=============
+
+# SCRIPTS DOCUMENTATION
+
 
 ## *. Bullet.cs
 
