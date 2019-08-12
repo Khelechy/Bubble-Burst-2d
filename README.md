@@ -35,6 +35,8 @@ LinePrefabs with Glow effects
 CameraShake on shooting
 Shooting Effects and DeathEffects(Particle Effects)
 
+![Editor](https://github.com/Khelechy/Bubble-Burst-2d/blob/master/Screenshot%20(157).png)
+
 
 # SCRIPTS DOCUMENTATION
 
@@ -52,6 +54,8 @@ Bullet speed, damages, effects (Easily Tweakable in Inspector)
 
 //Camera Shake effect 
 shake Values (Magnitude, timing ) easily editable in the Inspector
+
+![Editor](https://github.com/Khelechy/Bubble-Burst-2d/blob/master/Screenshot%20(165).png)
 
 ## *. EnemyAi.cs 
 
