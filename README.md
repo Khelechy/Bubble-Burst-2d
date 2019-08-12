@@ -18,6 +18,8 @@ _*Ground written Scripts in C# , commented, Readable and Understandable to begin
 *Unity Installed Componenets
 PostProcessing, TileMaps, MkGlow Effects*
 
+![Editor](https://github.com/Khelechy/Bubble-Burst-2d/blob/master/editor.png)
+
 # Documentation
 Scripts
 *. Bullet.cs
